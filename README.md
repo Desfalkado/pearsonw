@@ -1,4 +1,0 @@
-pearsonw
-========
-
-aaabbbccc...
